@@ -1,0 +1,16 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "张博的个人网站",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step required'",
+    "dev": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 
